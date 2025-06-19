@@ -1,4 +1,4 @@
-# <img src="https://cdn-icons-png.flaticon.com/512/4299/4299956.png" alt="Web Scraping Icon" width="30"/> Web Scraping Learning Repository
+# Web Scraping Learning Repository
 
 Welcome! This repository contains Python scripts, notes, and examples I use to learn and practice modern web scraping techniques.  
 It’s my personal reference to explore how to extract structured data from websites safely and responsibly.
@@ -26,3 +26,14 @@ It’s my personal reference to explore how to extract structured data from webs
 - Install requirement :
 ```bash
   pip install -r requirements.txt
+
+## 📁 Repository Structure
+```
+Learning-Web-Scraping/
+├── src/
+│   ├── scripts/
+│   ├
+│   └── requirements.txt
+├── README.md
+
+```
