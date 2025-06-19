@@ -26,7 +26,7 @@ It’s my personal reference to explore how to extract structured data from webs
 - Install requirement :
 ```bash
   pip install -r requirements.txt
-
+```
 ## 📁 Repository Structure
 ```
 Learning-Web-Scraping/
