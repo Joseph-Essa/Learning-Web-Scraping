@@ -27,6 +27,14 @@ It’s my personal reference to explore how to extract structured data from webs
 ```bash
   pip install -r requirements.txt
 ```
+
+## 📝 Results
+
+Check out the interactive Streamlit app for hands-on web scraping learning and demos:
+
+👉 [Web Scraping Learning Streamlit App](https://learning-web-scraping-g7knv8swtkkszcacfezmby.streamlit.app/)
+
+
 ## 📁 Repository Structure
 ```
 Learning-Web-Scraping/
