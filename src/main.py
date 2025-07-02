@@ -8,6 +8,10 @@ def main():
     search_query, max_jobs = get_user_input()
 
     if st.button("Start Scraping"):
+        if not search_query or search_query.strip() == "":
+            st.warning("Please enter a search query before scraping.")
+            return 
+        
         base_url = f"https://wuzzuf.net/search/jobs/?a=navbl%7Cspbl&q={search_query.replace(' ', '%20')}&start"
         try:
             with st.spinner("Scraping jobs..."):
